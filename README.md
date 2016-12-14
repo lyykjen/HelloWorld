@@ -1,6 +1,6 @@
 # HelloWorld
 //This is my HelloWorld repository
-
+//回调函数的用法例子
 #include<stdio.h>
 
 // 方法指针的格式为：int (*ptr)(char *p) 即：返回值(指针名)(参数列表)
